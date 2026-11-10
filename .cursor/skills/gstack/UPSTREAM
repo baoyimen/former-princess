@@ -1,0 +1,5 @@
+source: https://github.com/garrytan/gstack
+version: 1.99.0.0
+commit: 6b327148e37134e2628d2d20cd98f33dcbeef51c
+host: cursor
+generated: bun run gen:skill-docs --host cursor
